@@ -1,6 +1,6 @@
 # AngularPsnStore
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.5.
+Projeto pessoal de recriação da página principal da PlayStation Store usando o framework Angular. Este projeto foi criado na ocasião do **Bootcamp Santander 2023 - Full Stack Java+Angular**, organizado pela DIO. Gerado usando [Angular CLI](https://github.com/angular/angular-cli) versão 16.1.5.
 
 ## Development server
 
