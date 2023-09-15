@@ -8,6 +8,8 @@ import { Component, Input } from '@angular/core';
 export class CardComponent {
   @Input()
   gameCover:string = "";
+  @Input()
+  gameCoverAlt:string = "";
   
   /*card-label*/
   @Input()
